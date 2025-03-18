@@ -1,8 +1,4 @@
 
-
-Here is the updated README.md file with proper CSS and formatting:
-
-
 **Password Generator Application**
 =====================================
 
